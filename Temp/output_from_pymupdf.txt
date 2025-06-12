@@ -1,0 +1,107 @@
+ 
+  AMAN MALVIYA 
+Ward No.14, Narmada Puram, Madhya Pradesh-461001, INDIA  
+Email: amanmalviya258@gmail.com                   GitHub: https://github.com/amanmalviya258                                       Phone: +91 8982229022 
+ LinkedIn: https://www.linkedin.com/in/amanmalviya258  
+ 
+ACADEMIC QUALIFICATION 
+Bachelor of Technology in Computer Science and Engineering: GPA: 8.15/10                                                                Jun 2020 - Jun 2024 
+Rajiv Gandhi Proudyogiki Vishwavidyalaya, SIRT College,  Bhopal                                                                       ​
+                                      ​
+​
+   
+WORK EXPERIENCE 
+Zappian, Bhopal                                                              Software Engineering Intern                                                                 May - Nov 2023 
+●​
+Led the backend development of an internal tool using Node.js and ClickHouseDB to handle query processing and data retrieval without 
+database queries. 
+●​
+Architected database schemas/schema blueprints and designed/developed REST and GraphQL APIs 
+●​
+Integrated a Llama transformer generative model for natural language processing and translation into database-specific commands. 
+●​
+Collaborated with the frontend team to redesign and implement Digital Fox Media, a web app using PHP and Bootstrap, resulting in a 
+~25% increase in monthly traffic. 
+●​
+Implemented Figma frame wires using Material UI components in React.js for Cred Mudra, an in-house loans aggregator product under 
+Zappian, resulting in a ~19% increase in their revenue. 
+ 
+ACADEMIC PROJECTS 
+Slack Approval Workflow Bot                                                                                                                                                    
+●​
+Led the development of an interactive Slack approval workflow bot using Node.js, Slack Bolt framework, and Slack Block Kit, triggered 
+via custom slash commands for streamlined team approvals. 
+●​
+Integrated Slack Web APIs to enable real-time notifications and personalized user interactions within the Slack workspace. 
+●​
+Designed and implemented dynamic modals and interactive UI elements 
+​
+Coin-X                                                                                                                                                                                                    
+●​
+Contributed to developing Coin-X, a real-time cryptocurrency platform built on Node.js, Express.js, and TypeScript, which delivers 
+instant cryptocurrency price updates, historical analyses, and insights into institutional investments. 
+●​
+Engineered task scheduling microservices, ensuring timely updates of cryptocurrency data, and improving system reliability. 
+●​
+Optimized MongoDB performance through strategic indexing and implemented Redis caching, resulting in a 40% reduction in query 
+response times and improved scalability. 
+ 
+TECHNICAL SKILLS 
+Programming Languages:                Java, Go, JavaScript, SQL, PHP 
+Libraries & Frameworks:                Node.js, Express.js, Nest.js, Gin​
+Database/Cloud Technologies:        MongoDB, AWS, Google Cloud, Firebase, GIT/Github 
+ 
+ PUBLICATIONS 
+●​
+Atharva S. C., Fenil A., A. Malviya, Sidant S., Fahad A. K., Shamal A. H., Avasarala L.V.(2024). Automated Image Description 
+Generation using Deep Learning Techniques. International Journal of All Research Education and Scientific Methods, 12(10). ​
+ISSN: 2455-6211. https://www.ijaresm.com/automated-image-description-generation-using-deep-learning-techniques 
+●​
+Chaudhari, A. S., Mapara, K. H., A. Malviya, A., VarunTeja, C., Manoj Kumar, T., & Nara, K. (2024). Parallel computing for enhanced 
+image processing and machine learning performance. International Journal of All Research Education and Scientific Methods, 12(9). 
+ISSN: 2455-6211. https://www.ijaresm.com/parallel-computing-for-enhanced-image-processing-and-machine-learning-performance  
+ 
+LEADERSHIP ROLE 
+Steward, Guinness World Record                                                                                                                                                              Jan 2023 
+●​
+Led a team of 50 to assemble 1,459 agriculture-based robots for a Guinness World Record titled 'Most People Assembling Robots 
+Simultaneously' while ensuring compliance with the guidelines. 
+ 
+  
+ ACTIVITIES AND ACHIEVEMENTS 
+●​
+Awarded Student of the Month three consecutive times for demonstrating consistent academic excellence and leadership at Sagar 
+Institute of Research and Technology (SIRT), Bhopal.                                                                                                             Jan - Mar 2023 
+●​
+Featured on the Wall of Fame as an Academic and Co-curricular Achiever in the Department of Computer Science at Sagar Institute 
+of Research and Technology (SIRT) College, Bhopal.                  ​
+                                                                                     June 2024 
+●​
+Winner of Web Development Quiz Competition, Organized by CipherMosch. ​
+          ​
+​
+                                      Mar 2023 
+●​
+Placed among the Top 5 Finalists at the iNeuron-PW Skills Hackathon, recognized for innovative problem-solving and technical 
+prowess, iNeuron.ai, Brigade Signature Towers, Sannatammanahalli, Bengaluru. ​
+                                                                       Jan 2023                    
+ 
+ 
+COMMUNITY INVOLVEMENT 
+Core Team Member, Google Developer Student Club, SIRT Bhopal.​​
+​
+​
+                                      Jun 2023 - Jul 2024 
+●​
+Organized workshops, coding sessions, and tech talks, attracting over 500+ participants. Guided students to enhance their practical skills 
+and industry awareness, receiving an 88% positive feedback rate.  
+Head Event Coordinator, DevFest 2023, Google Developer Group Bhopal. ​ ​
+​
+​
+​
+                      Dec 2023 
+●​
+Orchestrated key aspects of a major tech conference, DevFest 2023, attended by over 250 developers. Facilitated knowledge exchange 
+through 10+ technical workshops and networking sessions. 
+ 
+

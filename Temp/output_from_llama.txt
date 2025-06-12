@@ -1,0 +1,41 @@
+                                              Ayush Soni
+ 6267212293                                  Software Engineer                      https://www.linkedin.com/in
+ soni.ayush.2212@gmail.com                                                                 /ayush-soni-4a4939360/
+EXPERIENCE
+Zappian - Software Development Engineer (Intern)                                      June 2023 — November 2023
+React | Typescript | Javascript | Node.js | Express | MongoDB | Tailwind | Next.js | Clickhouse | PHP |Material UI |JWT |
+JSON | Jest | SCSS
+                                                                                                      Bhopal, MP
+•  Assisted in developing high performance in-house as well as public applications to help in the customer loan sector
+   using the power of React on the frontend, and maintaining the backend using Express.
+•  Played a pivotal role in migration of their main website from PHP to React increasing the Google Lighthouse rating to
+   98% and improving SEO. Increased the robustness of the code by using test driven development with the help of Jest
+   and overall increased the customer acquisition.
+•  Secured the position for the lead in developing their AI application QNAI to help the marketing team access the database
+   using OpenAI’s GPT model and NLP to access the database without the actual need for technical knowledge.
+PROJECTS
+Querify (College Major Project)
+•  Designed and implemented a web application to provide the users with no knowledge of SQL or NoSQL queries to
+   interact with database systems with the help of natural language prompts. Using the knowledge from QNAI, built a full
+   stack application using machine learning and natural language processing.
+•  Increased the speed of execution of the NLP using dimensionality reduction techniques and using a locally hosted
+   model.
+Lobby
+•  Developed a serverless web app using Next.js to create real time lobbies on the internet and used the latest Web APIs
+   like WebSockets and WebRTC to provide real time audio and text chat ability across rooms. Instead of using a library,
+   devised a custom peer to peer connection only by the help of the browser’s API.
+•  Implemented TDD methodologies to make the code robust and increased the code coverage by 90%.
+•  Designed using the latest UI frameworks like Shadcn/ui as well as using the power of Tailwind. Used the Next.js
+   server side rendering abilities to provide top tier user experience and reduced the client side rendering to a
+   minimal.
+SKILLS
+Programming Languages :       Javascript, Typescript, C, C++, Python, Rust
+Database and Cloud Technology : PostgreSQL, MongoDB, Firebase, SQLite, Convex, Clickhouse
+Web Technologies :            Next.js, React, React Native, HTML, CSS, Electron, Tauri, JSON, Tailwind,
+EDUCATION
+Bachelor of Technology (BTech) in Computer Science and Engineering                          August 2020 — 2024
+Sagar Institute of Research and Technology, Bhopal, India.                                        GPA: 8.10/10.00
+ACTIVITIES, AWARDS & HONORS
+•  Secured the internal round of Smart India Hackathon, 2022.
+•  Member of Computer Society of India, SIRT chapter.
+•  Won ‘Best Presentation’ in Codebite Hackathon 2023.
